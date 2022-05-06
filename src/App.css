@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+html,body, #root{
+    height: 100%;
+}
+body{
+    font: 14px 'Inter', sans-serif;
+    background-color: #EFEFEF;
+}
